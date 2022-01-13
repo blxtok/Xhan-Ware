@@ -1,0 +1,5 @@
+getgenv().update1text =  "zort"
+getgenv().update2text =  "zort"
+getgenv().update2text =  "zort"
+getgenv().update2text =  " "
+getgenv().update2text =  " "
